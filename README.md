@@ -1,1 +1,1 @@
-# Spinner this is project develop on android studio
+# Spinner this is project develop on android studio . 
